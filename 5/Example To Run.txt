@@ -1,0 +1,7 @@
+
+I = imread('color_change.jpg');
+w=10;
+
+
+new_color=[248, 176, 254];
+color_change(I,w,new_color);
